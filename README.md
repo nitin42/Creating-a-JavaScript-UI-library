@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this tutorial, we will be creating a JavaScript UI library in which views will be updated with corresponding changes to the model. Our main goal is to learn how views are updated with changes to model, how different hooks are called and managed internally throughout the lifecycle of the view. I hope you will come up with a solid intiution of how the real UI libraries work and evolve.
+In this tutorial, we will be creating a JavaScript UI library in which views will be updated on requiring changes to the model. Our main goal is to learn how views are updated with changes to model, how different hooks are called and managed internally throughout the lifecycle of the view. I hope you will come up with a solid intiution of how the real UI libraries work and evolve.
 
 Our library will be named after ***Elmo***, a Muppet character!
 
