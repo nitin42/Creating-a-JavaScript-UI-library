@@ -11,6 +11,8 @@ Our library will be named after ***Elmo***, a Muppet character!
 
 > Sorry, I am bad with naming things.
 
+**Note** - This, however, may not serve as a complete source for creating a UI library because we will be adding some more things on top of it (custom UI components provided by the library) which is completely different. But I am sure you will enjoy reading this tutorial.
+
 ## Who should read this tutorial ?
 
 This tutorial is for casual programmers who just want to learn how to create a UI library.
@@ -64,3 +66,15 @@ Although I wanted to go for a template syntax for rendering the views but settle
 * [Defining strategies for updating the views]()
 * [Getters and setters for template variables]()
 * [Optimisation]()
+
+## I have read the whole tutorial and I didn't enjoyed reading it.
+
+No issues. I am not an expert in creating UI libraries and I am just sharing what I've learned. But I'm glad that you gave a try.
+
+## This tutorial was good. I enjoyed reading it!
+
+Thanks! You can spread a word about it on Twitter. I am at [NTulswani](https://twitter.com/NTulswani).
+
+## Suggestions to improve the tutorial
+
+May be create an issue ?
