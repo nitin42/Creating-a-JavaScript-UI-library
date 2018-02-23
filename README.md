@@ -52,11 +52,11 @@ const inst = new Elmo(root, models)
 
 What are those weird attributes `var`, `min-data` and `max-data` ? Don't worry, we will cover the syntax and the implementation in detail later.
 
-Although I wanted to go for a template syntax for rendering the views but settled for the custom attributes for the sake of simplicity.
+Although I wanted to go for a template syntax for rendering the views but settled for the custom attributes for the sake of simplicity (templates would require an extra compilation step).
 
 ## Table of contents
 
-* [Introduction]()
+* [Introduction](./introduction.md)
 * [Structuring API]()
 * [Creating models]()
 * [Defining hooks]()
