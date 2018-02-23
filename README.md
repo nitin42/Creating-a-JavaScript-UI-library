@@ -9,9 +9,11 @@ In this tutorial, we will be creating a JavaScript UI library in which views wil
 
 Our library will be named after ***Elmo***, a Muppet character!
 
+> Sorry, I am bad with naming things.
+
 ## Who should read this tutorial ?
 
-This tutorial is for casual programmers who just want to learn how to create a basic UI library.
+This tutorial is for casual programmers who just want to learn how to create a UI library.
 
 ## Syntax
 
@@ -21,7 +23,6 @@ This tutorial is for casual programmers who just want to learn how to create a b
 <body>
    <div id="example">
      <span var="units" /> Units
-     <span var="price" class="Drag" min-data="2" max-data="10"> $</span>
    </div>
 </body>
 ```
@@ -49,4 +50,17 @@ const inst = new Elmo(root, models)
 
 What are those weird attributes `var`, `min-data` and `max-data` ? Don't worry, we will cover the syntax and the implementation in detail later.
 
+Although I wanted to go for a template syntax for rendering the views but settled for the custom attributes for the sake of simplicity.
+
 ## Table of contents
+
+* [Introduction]()
+* [Structuring API]()
+* [Creating models]()
+* [Defining hooks]()
+* [Traversing the children]()
+* [Creating views from classnames and variables]()
+* [Parsing attributes]()
+* [Defining strategies for updating the views]()
+* [Getters and setters for template variables]()
+* [Optimisation]()
